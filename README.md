@@ -26,9 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita-lal&" alt="ankita-lal" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MADHURYAHAIT&theme=dark&hide_border=false)<br/>
-
 </div>
 
 <img src="Snake.svg" width="100%"/>
